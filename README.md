@@ -60,6 +60,16 @@ This repository showcases a collection of applied computer vision projects devel
 > ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter) and executed on **AWS EC2 Virtual Machines**
 
 ---
+## 🖥️ Environment Setup
+
+All notebooks in this repository were developed and executed in a **cloud-based compute environment** powered by:
+
+- 🖥️ **AWS EC2 Virtual Machines** (Ubuntu)
+- 📒 **Jupyter Notebook Interface**
+- ⚙️ **Python 3.x** with GPU acceleration (when needed)
+- 📦 Deep learning libraries installed directly on the VM for high-performance image processing tasks
+
+> This cloud-based setup enabled efficient training of deep learning models and real-time computer vision processing for all projects in this repository.
 
 ## 📂 Repository Structure
 
