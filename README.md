@@ -73,11 +73,11 @@ All notebooks in this repository were developed and executed in a **cloud-based 
 
 ## 📂 Repository Structure
 📁 enterprise-computer-vision/
-├── BalbirSinghAssignment2.ipynb # Image classification using CNN
-├── BalbirSinghAssignment3.ipynb # Real-time face detection with OpenCV
-├── BalbirSinghAssignment4.ipynb # Transfer learning using pretrained models
-├── BalbirSinghAssignment5.ipynb # LIME-based model interpretability
-└── README.md # Project overview and documentation
+ # Image classification using CNN
+ # Real-time face detection with OpenCV
+ # Transfer learning using pretrained models
+ # LIME-based model interpretability
+ # Project overview and documentation
 
 ---
 
