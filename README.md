@@ -1,6 +1,13 @@
 # 🧠 Enterprise Computer Vision Projects
 
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-API-red?logo=keras)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+
 This repository showcases a collection of applied computer vision projects developed using **TensorFlow**, **Keras**, and **OpenCV**, focused on real-world tasks such as image classification, face detection, model interpretability, and transfer learning. All projects were executed in **Jupyter Notebooks hosted on AWS EC2 virtual machines** as part of the **AI and Data Analytics Strategy** course.
+
 
 ---
 
